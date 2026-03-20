@@ -2,7 +2,7 @@
 
 # Hi there, I'm Eyvind Emilio 👋
 
-### 📱 Native Mobile Developer | Android · iOS · React Native
+### 📱 Native Mobile Developer | Android · iOS
 
 [![Profile Views](https://komarev.com/ghpvc/?username=EyvindEmilio&color=blue&style=flat-square&label=Profile+Views)](https://github.com/EyvindEmilio)
 
@@ -13,7 +13,6 @@
 ## 🚀 About Me
 
 - 📱 Passionate **Native Mobile Developer** with experience building high-quality apps for **Android** and **iOS**
-- ⚛️ Also skilled in **React Native** for cross-platform development
 - 🎮 Hobbyist **Unity** game developer
 - 🌱 Always learning and exploring new mobile technologies
 - 💼 Focused on delivering clean, performant, and user-friendly mobile experiences
@@ -32,13 +31,9 @@
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
 [![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)]()
 
-### ⚛️ Cross-Platform
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-
 ### 🔧 Tools & Others
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
